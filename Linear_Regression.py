@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2018/11/3 11:04
 # @Author  : PanYunSong
-# @File    : LinearRegression.py
+# @File    : Linear_Regression.py
 # @Software: PyCharm
 # @Version : python3
 
